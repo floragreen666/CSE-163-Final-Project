@@ -1,6 +1,6 @@
 # CSE-163-Final-Project
 ## Description
-Connects the median earnings of former college students with various college features to help prospective students choose colleges.
+Connects the median earnings of former students with various college features to help prospective students choose colleges.
 
 See Report.docx for detailed project report.
 
