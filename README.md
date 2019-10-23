@@ -2,7 +2,7 @@
 ## Description
 Connects the median earnings of former students with various college features to help prospective students choose colleges.
 
-See Report.docx for detailed project report.
+See Report.docx for detailed project report, including research questions, results, and methodology.
 
 ## Code Collaboration
 1. Tianyi/Flora Tang (main.py, test.py)
